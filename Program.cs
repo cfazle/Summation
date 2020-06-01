@@ -10,6 +10,7 @@ namespace Summation
         {
             //Declare two collections of int elements.
             int[] array1 = { 1, 3, 5, 7 };
+
             List<int> list1 = new List<int>() { 1, 3, 5, 9 };
 
             //Use Sum extension on their elements
